@@ -1,4 +1,7 @@
 int USCLN(int a, int b)
 {
-fdtfdyft
+  if(a>b)
+   a=a-b;
+  else
+   b=b-a;
 }
